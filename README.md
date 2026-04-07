@@ -1,4 +1,4 @@
-# **Wav2Lip**: *Accurately Lip-syncing Videos In The Wild* 
+#**Wav2Lip**: *Accurately Lip-syncing Videos In The Wild* 
 
 # Commercial Version
 
